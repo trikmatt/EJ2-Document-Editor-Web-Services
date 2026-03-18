@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2F1360E-DF8C-4AD2-A8CC-942A180D6762}|src\\EJ2APIServices_NET8.csproj|c:\\projetos\\sync-fusion\\ej2-document-editor-web-services\\asp.net core\\src\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D2F1360E-DF8C-4AD2-A8CC-942A180D6762}|src\\EJ2APIServices_NET8.csproj|solutionrelative:src\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2F1360E-DF8C-4AD2-A8CC-942A180D6762}|src\\EJ2APIServices_NET8.csproj|c:\\projetos\\sync-fusion\\ej2-document-editor-web-services\\asp.net core\\src\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D2F1360E-DF8C-4AD2-A8CC-942A180D6762}|src\\EJ2APIServices_NET8.csproj|solutionrelative:src\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "src\\Controllers\\DocumentEditorController.cs",
               "ToolTip": "C:\\Projetos\\sync-fusion\\EJ2-Document-Editor-Web-Services\\ASP.NET Core\\src\\Controllers\\DocumentEditorController.cs",
               "RelativeToolTip": "src\\Controllers\\DocumentEditorController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAtwC0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T17:38:56.742Z",
               "EditorCaption": ""
@@ -52,19 +48,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-17T17:33:36.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Projetos\\sync-fusion\\EJ2-Document-Editor-Web-Services\\ASP.NET Core\\src\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "src\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Projetos\\sync-fusion\\EJ2-Document-Editor-Web-Services\\ASP.NET Core\\src\\Properties\\launchSettings.json",
-              "RelativeToolTip": "src\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-17T17:33:03.865Z",
               "EditorCaption": ""
             }
           ]
